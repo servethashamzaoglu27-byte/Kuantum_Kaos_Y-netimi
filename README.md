@@ -44,4 +44,9 @@ Her işlem try-catch bloklarıyla korunmuştur.
 ---
 
 ## 🖥 Kullanılan Diller ve Klasör Yapısı
+Kuantum_Kaos_Yonetimi/
+│── KuantumCS/ → C# sürümü
+│── KuantumJAVA/ → Java sürümü
+│── KuantumJS2/ → JavaScript sürümü
+│── KuantumPYTHON/ → Python sürümü
 
