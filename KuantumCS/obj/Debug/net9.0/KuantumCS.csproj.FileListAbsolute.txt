@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\KuantumCS\bin\Debug\net9.0\KuantumCS.exe
+C:\Users\HP\OneDrive\Desktop\KuantumCS\bin\Debug\net9.0\KuantumCS.deps.json
+C:\Users\HP\OneDrive\Desktop\KuantumCS\bin\Debug\net9.0\KuantumCS.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\KuantumCS\bin\Debug\net9.0\KuantumCS.dll
+C:\Users\HP\OneDrive\Desktop\KuantumCS\bin\Debug\net9.0\KuantumCS.pdb
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.dll
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\refint\KuantumCS.dll
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.pdb
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\KuantumCS.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\KuantumCS\obj\Debug\net9.0\ref\KuantumCS.dll
